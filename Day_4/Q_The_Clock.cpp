@@ -26,7 +26,7 @@ int main() {
                 }
             }
         }
-
+         
         while (true) {
             if (palindromes.count(currentTime)) {
                 count++;
